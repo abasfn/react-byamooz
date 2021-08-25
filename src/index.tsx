@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './font/IRANSansRegular.ttf';
-import './font/IRANSansBold.ttf';
+import './font/Fontsite/IRANSansRegular.ttf';
+import './font/Fontsite/IRANSansBold.ttf';
 ReactDOM.render(
   <React.StrictMode>
     <App />
