@@ -9,11 +9,11 @@ const TopMenu = () => {
                 <img className='ml-5' src="images/Emoticon/icons8-linkedin-24.png" alt="mobile icone" />
                 <img className='ml-5' src="images/Emoticon/icons8-instagram-logo-24.png" alt="mobile icone" />
                 <div className='flex ml-5'>
-                    <img src="images/Emoticon/icons8-book-12.png" alt="mobile icone" />
+                    <img className='ml-5' src="images/Emoticon/icons8-linkedin-24.png" alt="mobile icone" />
                     <Paragraph title='Dictionary' className='text-white font-bold text-sm mt-0.5' />
                 </div>
                 <div className='flex ml-3'>
-                    <img src="images/Emoticon/icons8-phone-case-12.png" alt="mobile icone" />
+                    <img className='ml-5' src="images/Emoticon/icons8-instagram-logo-24.png" alt="mobile icone" />
                     <Paragraph title='App' className='text-white text-sm font-bold mt-0.5' />
                 </div>
             </div>

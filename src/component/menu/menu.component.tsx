@@ -22,7 +22,7 @@ const Menu = () => {
             <div className='flex m-auto justify-end md:col-span-2 md:m-0'>
                 <img className='ml-8' src="images/Emoticon/icons8-search-24.png" alt="SearchIcone" />
                 <div className='bg-black'>
-                    <img src="images/Emoticon/logo-favicon-white.png" alt="LOGO" />
+                    <img width='100' height='34' src="images/Emoticon/logo-favicon-white.png" alt="LOGO" />
                 </div>
             </div>
         </div>

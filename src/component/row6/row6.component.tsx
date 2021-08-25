@@ -12,7 +12,7 @@ const Row6 = () => {
                 <button className='w-6/12 flex m-auto'><img src="images/Emoticon/big-button.png" alt="button" /></button>
                 <button className='w-2/6 mt-12 flex m-auto'><img src="images/Emoticon/badge-new-min.png" alt="button" /></button>
             </div>
-            <div className='mt-6'>
+            <div className='md:mt-6 2xl:mt-14 '>
                 <img className='m-auto' src="images/Emoticon/First-Page-550.png" alt="phone" />
             </div>
         </div>

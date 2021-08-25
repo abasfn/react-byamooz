@@ -8,8 +8,8 @@ const Row1 = () => {
        <Paragraph title='وبسایت آموزش آنلاین زبان‌های خارجی' className='text-title text-xl mt-1' />
        <Paragraph title='بیاموز تولید کننده مجموعه ابزارهای خودآموز و کمک‌آموزشی است که به شما در یادگیری ساده‌تر و سریع‌تر زبان‌های خارجی کمک می‌کند.' className='text-title text-lg mt-5' />
        </div>
-       <div>
-        <img src="images/Emoticon/B-amooz-min.png" alt="Map" />
+       <div className='relative -bottom-5'>
+        <img width='500px' height='500px' src="images/Emoticon/B-amooz-min.png" alt="Map" />
        </div>     
         </div>
     );
