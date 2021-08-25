@@ -1,5 +1,7 @@
 import React from 'react';
 import Paragraph from '../paragraph/paragraph.component';
+import icone1 from '../../images/Emoticon/icons8-search-24.png';
+import icone2 from '../../images/Emoticon/logo-favicon-white.png';
 const Menu = () => {
     const menu = [
         { title: 'بیاموز', className: 'text-title text-base md:text-xl' },
@@ -20,9 +22,9 @@ const Menu = () => {
                 })}
             </div>
             <div className='flex m-auto mt-4 md:mt-0 justify-end md:col-span-2 md:m-0'>
-                <img className='ml-8' src="images/Emoticon/icons8-search-24.png" alt="SearchIcone" />
+                <img className='ml-8' src={icone1} alt="SearchIcone" />
                 <div className='bg-black'>
-                    <img width='100' height='34' src="images/Emoticon/logo-favicon-white.png" alt="LOGO" />
+                    <img width='100' height='34' src={icone2} alt="LOGO" />
                 </div>
             </div>
         </div>

@@ -1,11 +1,13 @@
 import React from 'react';
 import Paragraph from '../paragraph/paragraph.component';
-
+import icone1 from '../../images/Emoticon/B-amooz-Dictionary-min.jpg';
+import icone2 from '../../images/Emoticon/B-amooz-application-min.jpg';
+import icone3 from '../../images/Emoticon/lang-b-amooz-min.jpg';
 const Row4 = () => {
     const imges = [
-        { src: 'images/Emoticon/B-amooz-Dictionary-min.jpg', title: 'دیکشنری بیاموز' },
-        { src: 'images/Emoticon/B-amooz-application-min.jpg', title: 'اپلیکیشن زبان بیاموز' },
-        { src: 'images/Emoticon/lang-b-amooz-min.jpg', title: 'وبسایت اموزشی بیاموز' },
+        { src: icone1, title: 'دیکشنری بیاموز' },
+        { src: icone2, title: 'اپلیکیشن زبان بیاموز' },
+        { src: icone3, title: 'وبسایت اموزشی بیاموز' },
     ]
     return (
         <div className='container sm:p-4 mx-auto'>

@@ -1,6 +1,6 @@
 import React from 'react';
 import Paragraph from '../paragraph/paragraph.component';
-
+import icone1 from '../../images/Emoticon/03-300.png';
 const Row3 = () => {
     return (
         <div className='grid container  gap-4 mx-auto sm:p-4 grid-cols-1 md:grid-cols-6 mt-16'>
@@ -10,7 +10,7 @@ const Row3 = () => {
                 <Paragraph title='تیم بیاموز به طور ثابت در حال گسترش محصولات موجود و توسعه محصولات جدید است و در این راه از کمک بسیاری از کاربران خود استفاده کرده است' className='text-title text-lg mt-5 mb-5' />
             </div>
             <div className='md:col-span-2'>
-            <img width='250px' height='250px' className='m-auto md:m-0' src="images/Emoticon/03-300.png" alt="logo" />
+            <img width='250px' height='250px' className='m-auto md:m-0' src={icone1} alt="logo" />
             </div>
         </div>
     );
