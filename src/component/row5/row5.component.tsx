@@ -4,7 +4,7 @@ import Paragraph from '../paragraph/paragraph.component';
 const Row5 = () => {
     return (
         <div className='container mx-auto flex flex-col md:flex-row gap-16'>
-                <img width='248' height='300' src="images/Emoticon/Langeek-logo-margined-248x300.png" alt="logo" />
+                <img className='m-auto md:m-0' width='248' height='300' src="images/Emoticon/Langeek-logo-margined-248x300.png" alt="logo" />
             <div className='flex items-center justify-center'>
                 <div>
                 <Paragraph title='پروژه LanGeek' className='text-black text-3xl' />

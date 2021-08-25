@@ -17,28 +17,28 @@ function App() {
       <div className='bg-topmenu p-2'>
         <TopMenu />
       </div>
-      <div className='bg-white'>
+      <div className='bg-white p-2'>
         <Menu />
       </div>
-      <div className='bg-white'>
+      <div className='bg-white p-2'>
         <Row1 />
       </div>
       <div className='bg-white'>
         <ImagesGroup />
       </div>
-      <div className='bg-white'>
+      <div className='bg-white p-2'>
         <Row3 />
       </div>
-      <div className='bg-mainbg w-main mt-6'>
+      <div className='bg-mainbg w-main mt-6 p-2'>
         <Row4 />
         <div className='h-16'></div>
         <Row5/>
         <div className='h-8'></div>
       </div>
-      <div className='bg-white mt-6'>
+      <div className='bg-white mt-6 p-2'>
        <Row6/>
       </div>
-      <div className='bg-footer w-main'>
+      <div className='bg-footer w-main p-2'>
        <Footer/>
       </div>
     </div>
