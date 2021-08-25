@@ -10,7 +10,7 @@ const Row3 = () => {
                 <Paragraph title='تیم بیاموز به طور ثابت در حال گسترش محصولات موجود و توسعه محصولات جدید است و در این راه از کمک بسیاری از کاربران خود استفاده کرده است' className='text-title text-lg mt-5 mb-5' />
             </div>
             <div className='md:col-span-2'>
-            <img width='250px' height='250px' className='md:float-left m-auto md:m-0' src="images/03-300.png" alt="logo" />
+            <img width='250px' height='250px' className='md:float-left m-auto md:m-0' src="images/Emoticons/03-300.png" alt="logo" />
             </div>
         </div>
     );

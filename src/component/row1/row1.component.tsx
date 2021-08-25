@@ -9,7 +9,7 @@ const Row1 = () => {
        <Paragraph title='بیاموز تولید کننده مجموعه ابزارهای خودآموز و کمک‌آموزشی است که به شما در یادگیری ساده‌تر و سریع‌تر زبان‌های خارجی کمک می‌کند.' className='text-title text-lg mt-5' />
        </div>
        <div>
-        <img src="images/B-amooz-min.png" alt="Map" />
+        <img src="images/Emoticons/B-amooz-min.png" alt="Map" />
        </div>     
         </div>
     );
