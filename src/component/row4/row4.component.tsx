@@ -3,9 +3,9 @@ import Paragraph from '../paragraph/paragraph.component';
 
 const Row4 = () => {
     const imges = [
-        { src: 'images/Emoticons/B-amooz-Dictionary-min.jpg', title: 'دیکشنری بیاموز' },
-        { src: 'images/Emoticons/B-amooz-application-min.jpg', title: 'اپلیکیشن زبان بیاموز' },
-        { src: 'images/Emoticons/lang-b-amooz-min.jpg', title: 'وبسایت اموزشی بیاموز' },
+        { src: 'images/Emoticon/B-amooz-Dictionary-min.jpg', title: 'دیکشنری بیاموز' },
+        { src: 'images/Emoticon/B-amooz-application-min.jpg', title: 'اپلیکیشن زبان بیاموز' },
+        { src: 'images/Emoticon/lang-b-amooz-min.jpg', title: 'وبسایت اموزشی بیاموز' },
     ]
     return (
         <div className='container sm:p-4 mx-auto'>

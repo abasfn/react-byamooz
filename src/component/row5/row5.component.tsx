@@ -5,7 +5,7 @@ const Row5 = () => {
     return (
         <div className='grid sm:p-4 container mx-auto grid-cols-1 md:grid-cols-6'>
             <div className='md:col-span-2'>
-                <img src="images/Emoticons/Langeek-logo-margined-248x300.png" alt="logo" />
+                <img src="images/Emoticon/Langeek-logo-margined-248x300.png" alt="logo" />
             </div>
             <div className='md:col-span-4'>
                 <Paragraph title='پروژه LanGeek' className='text-black text-3xl mt-12' />

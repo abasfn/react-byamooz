@@ -3,12 +3,12 @@ import Paragraph from '../paragraph/paragraph.component';
 
 const ImagesGroup = () => {
     const imges = [
-        { src: 'images/Emoticons/uk-min.jpg', title: 'اموزش زبان انگلیسی' },
-        { src: 'images/Emoticons/germay-min.jpg', title: 'اموزش زبان المانی' },
-        { src: 'images/Emoticons/France-min.jpg', title: 'اموزش زبان فرانسه' },
-        { src: 'images/Emoticons/Turkey-min.jpg', title: 'اموزش زبان ترکی استانبولی' },
-        { src: 'images/Emoticons/spain-min.jpg', title: 'اموزش زبان اسپانیایی' },
-        { src: 'images/Emoticons/arabia-min.jpg', title: 'اموزش زبان عربی' },
+        { src: 'images/Emoticon/uk-min.jpg', title: 'اموزش زبان انگلیسی' },
+        { src: 'images/Emoticon/germay-min.jpg', title: 'اموزش زبان المانی' },
+        { src: 'images/Emoticon/France-min.jpg', title: 'اموزش زبان فرانسه' },
+        { src: 'images/Emoticon/Turkey-min.jpg', title: 'اموزش زبان ترکی استانبولی' },
+        { src: 'images/Emoticon/spain-min.jpg', title: 'اموزش زبان اسپانیایی' },
+        { src: 'images/Emoticon/arabia-min.jpg', title: 'اموزش زبان عربی' },
     ]
     return (
         <div className='grid grid-cols-1 md:grid-cols-6'>
